@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Joplin
+Comment=Write notes and synchronize them across your devices.
+Exec=joplin %U
+Icon=joplin
+Terminal=false
+Categories=Office;Utility;
