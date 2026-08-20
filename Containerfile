@@ -1,6 +1,6 @@
 FROM ubuntu:26.04 AS source
 
-ADD --checksum=sha256:c9fc77c077f1c81c581324dfdd4cc785307ea3c5b5f19ceecf9ee20fa78ac792 https://github.com/laurent22/joplin/releases/download/v3.6.15/Joplin-3.6.15.deb /tmp/app.deb
+ADD --checksum=sha256:1b7f42d2ee978b1adf5cd95b8880b48769f42e3135076632392192022e300e7d https://github.com/laurent22/joplin/releases/download/v3.6.16/Joplin-3.6.16.deb /tmp/app.deb
 
 FROM ghcr.io/containerpak/gtk3:main
 
