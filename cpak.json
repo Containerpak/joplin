@@ -4,7 +4,7 @@
   "name": "Joplin",
   "description": "Write notes and synchronize them across your devices.",
   "version": "3.6.16",
-  "image": "ghcr.io/containerpak/joplin@sha256:294b955970561fe2ac23fd8ed47f400c85c2c51540fc9fad1e42af2d7e6f39f6",
+  "image": "ghcr.io/containerpak/joplin@sha256:69f39dcc81af6f778be37fd5542bf1c9db571ce17f4450a5c979af38637fe49c",
   "binaries": [
     "/usr/bin/joplin"
   ],
