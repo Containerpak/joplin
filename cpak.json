@@ -3,7 +3,7 @@
   "manifest_version": "3.0",
   "name": "Joplin",
   "description": "Write notes and synchronize them across your devices.",
-  "version": "3.6.16",
+  "version": "3.7.16",
   "image": "ghcr.io/containerpak/joplin@sha256:015919bfec789238342e87daeef6558a5fe7e63fa75f01b0875b9e675e84c3ea",
   "binaries": [
     "/usr/bin/joplin"
